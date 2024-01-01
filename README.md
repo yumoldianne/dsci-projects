@@ -15,7 +15,7 @@ Repository containing my portfolio of data science projects. Presented in the fo
 	_Tools: NLTK, scikit_ 
 
 - ### Data Analysis and Visualization
-	 - Time Series-Forecasting: E-commerce Sales Forecast: 
+	 - Time Series-Forecasting: E-Commerce Sales Forecast using Prophet: 
 
 	_Tools: Pandas, Seaborn, Matplotlib, Prophet_ 
 
