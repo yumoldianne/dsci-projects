@@ -1,6 +1,8 @@
 # Data Science Portfolio
 
-Repository containing my portfolio of data science projects. Presented in the form of Jupyter notebooks and python files.
+This is a repository containing my portfolio of data science projects. Jupyter notebooks were ran using the Python kernel through Anaconda.
+
+For in-depth discussions of the methodology and results of each project, you may visit my website. 
 
 ## Content
 - ### Machine Learning
