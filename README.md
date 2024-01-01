@@ -4,5 +4,5 @@ Repository containing my portfolio of data science projects. Presented in the fo
 
 ## Contents 
 * Unveiling Mental Health Patterns in Pandemic Discourse through Deep Learning:
-**   _Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_ 
+  *   _Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_ 
 * Analysis of Graduate Admissions Machine Learning Models
