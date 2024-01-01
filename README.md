@@ -4,22 +4,22 @@ Repository containing my portfolio of data science projects. Presented in the fo
 
 ## Content
 - ### Machine Learning
-	 - Supervised Learning: Analysis of Graduate Admissions Machine Learning Models: 
-	 - Unsupervised Learning: Custumer Segmentation and Time Series Forecasting for Business Insights:
+	 - Supervised Learning: Analysis of Graduate Admissions Machine Learning Models: Utilizing K-Nearest Neighbors, Decision Trees, and Random Forest algorithms for classification and regression tasks, the project aims to provide insights into the importance of various admission parameters such as GRE scores, TOEFL scores, University Rating, and others. 
+	 - Unsupervised Learning: Custumer Segmentation and Time Series Forecasting for Business Insights: This project was initiated with a business goal of deriving actionable insights for the bank’s business decision-making and customer satisfaction. The project’s working methodology consists of five general procedures: (1) Data Cleaning, (2) Exploratory Data Analysis, (3) Customer Segmentation Optimization, (4) Intelligent Application, and (5) Analysis. Customer Segmentation Optimization involves comparing five clustering algorithms. Intelligent Application specifically consists of (a) Hypothesis Testing via Kruskal-Wallis test and (b) Time Series Forecasting via Prophet.
 
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Prophet_ 
 
 - ### Natural Language Processing
-	 - Deep Learning: Mental Health Patterns in Pandemic Discourse Classifier: 
+	 - Deep Learning: Mental Health Patterns in Pandemic Discourse Classifier: Designing and implementing Convolutional Neural Network (CNN) and Long Short-Term Memory (LSTM) models that learn from a diverse dataset of Reddit posts related to mental health during the pandemic, the project aims to classify posts into distinct categories—such as anxiety, schizophrenia, and others—revealing the challenges of distinguishing overlapping symptoms and providing insights into the language used by individuals experiencing these conditions.
 
 	_Tools: NLTK, scikit_ 
 
 - ### Computer Simulations and Modeling 
-	 - Agent-Based Modelling: Rumor Propagation Model:
+	 - Agent-Based Modelling: Rumor Propagation Model: Conducted an agent-based modeling project to simulate and analyze the propagation of rumors in various scenarios, considering factors such as acceptance rates, introduction times, and starting locations. The results highlight the significant impact of these factors on the spread of rumor and truth, providing insights for effective intervention strategies.
 
 	_Tools: agentpy_ 
 
 - ### Database Technologies
-	 - DynamoDB: Song Database: 
+	 - DynamoDB: Song Database: Developed a DynamoDB-based song database for an online streaming service, enabling efficient querying with over 5000 stream entries, artist, album, and song information, this project utilized various access patterns, including base tables, LSIs, and GSIs, to cater to users, artists, developers, and the music industry.
 
 	_Tools: DynamoDB_ 
