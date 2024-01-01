@@ -2,7 +2,7 @@
 
 Repository containing my portfolio of data science projects. Presented in the form of Jupyter notebooks and python files.
 
-## Contents 
+## Content
 - ### Machine Learning
 	 - Supervised Learning: Analysis of Graduate Admissions Machine Learning Models: 
 	 - Unsupervised Learning: Custumer Segmentation and Time Series Forecasting for Business Insights:
