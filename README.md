@@ -12,14 +12,14 @@ Repository containing my portfolio of data science projects. Presented in the fo
 - ### Natural Language Processing
 	 - Deep Learning: Mental Health Patterns in Pandemic Discourse Classifier: 
 
-_Tools: NLTK, scikit_ 
+	_Tools: NLTK, scikit_ 
 
 - ### Computer Simulations and Modeling 
 	 - Agent-Based Modelling: Rumor Propagation Model:
 
-_Tools: agentpy_ 
+	_Tools: agentpy_ 
 
 - ### Database Technologies
 	 - DynamoDB: Song Database: 
 
-_Tools: DynamoDB_ 
+	_Tools: DynamoDB_ 
