@@ -17,7 +17,7 @@ For in-depth discussions of the methodology and results of each project, you may
 	_Tools: NLTK, scikit_ 
 
 - ### Data Analysis and Visualization
-	 - Time Series-Forecasting: E-Commerce Sales Forecast using Prophet: work-in-progress
+	 - Time Series Forecasting: E-Commerce Sales Forecast: work-in-progress
 
 	_Tools: Pandas, Seaborn, Matplotlib, Prophet_ 
 
