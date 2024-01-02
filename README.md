@@ -27,6 +27,6 @@ For in-depth discussions of the methodology and results of each project, you may
 	_Tools: agentpy_ 
 
 - ### Database Technologies
-	 - [DynamoDB: Song Database:](https://github.com/yumoldianne/dsci-portfolio/tree/main/Song%20Database%20Using%20DynamoDB) Developed a DynamoDB-based song database for an online streaming service, enabling efficient querying with over 5000 stream entries, artist, album, and song information, this project utilized various access patterns, including base tables, LSIs, and GSIs, to cater to users, artists, developers, and the music industry.
+	 - [DynamoDB: Song Database:](https://github.com/yumoldianne/dsci-portfolio/tree/main/Song%20Database%20Using%20DynamoDB) Developed a DynamoDB-based song database for an online streaming service, enabling efficient querying with over 5000 stream entries, artist, album, and song information. This project utilized various access patterns, including base tables, LSIs, and GSIs, to cater to users, artists, developers, and the music industry.
 
 	_Tools: DynamoDB_ 
