@@ -14,7 +14,7 @@ For in-depth discussions of the methodology and results of each project, you may
 - ### Natural Language Processing
 	 - [Deep Learning: Mental Health Patterns in Pandemic Discourse Classifier:](https://github.com/yumoldianne/dsci-portfolio/tree/main/Unveiling%20Mental%20Health%20Patterns%20in%20Pandemic%20Discourse%20through%20Deep%20Learning) Designing and implementing Convolutional Neural Network (CNN) and Long Short-Term Memory (LSTM) models that learn from a diverse dataset of Reddit posts related to mental health during the pandemic, the project aims to classify posts into distinct categories—such as anxiety, schizophrenia, and others—revealing the challenges of distinguishing overlapping symptoms and providing insights into the language used by individuals experiencing these conditions.
 
-	_Tools: NLTK, scikit_ 
+	_Tools: NLTK, scikit-learn_ 
 
 - ### Data Analysis and Visualization
 	 - Time Series Forecasting: E-Commerce Sales Forecast: work-in-progress
