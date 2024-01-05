@@ -17,7 +17,9 @@ For in-depth discussions of the methodology and results of each project, you may
 	_Tools: NLTK, scikit-learn_ 
 
 - ### Data Analysis and Visualization
-	 - [Simple Time Series Forecasting: E-Commerce Sales Forecast:](https://github.com/yumoldianne/dsci-portfolio/blob/main/E-Commerce%20Sales%20Forecast.ipynb) Utilized exploratory data analysis techniques to identify patterns, trends, and insights within the e-commerce dataset and applied time series forecasting techniques using Prophet to predict sales for the upcoming year. 
+	 - [E-Commerce Sales Forecast:](https://github.com/yumoldianne/dsci-portfolio/blob/main/E-Commerce%20Sales%20Forecast.ipynb) Utilized exploratory data analysis techniques to identify patterns, trends, and insights within the e-commerce dataset and applied time series forecasting techniques using Prophet to predict sales for the upcoming year.
+	 - Real Estate Market Predictions: work in progress
+ 
 
 	_Tools: Pandas, Seaborn, Matplotlib, Plotly Express, scikit-learn, Prophet_ 
 
