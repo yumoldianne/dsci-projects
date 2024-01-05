@@ -19,7 +19,7 @@ For in-depth discussions of the methodology and results of each project, you may
 - ### Data Analysis and Visualization
 	 - Time Series Forecasting: E-Commerce Sales Forecast: work-in-progress
 
-	_Tools: Pandas, Seaborn, Matplotlib, Prophet_ 
+	_Tools: Pandas, Seaborn, Matplotlib, Plotly Express, scikit-learn, Prophet_ 
 
 - ### Computer Simulations and Modeling 
 	 - [Agent-Based Modelling: Rumor Propagation Model:](https://github.com/yumoldianne/dsci-portfolio/blob/main/Rumor%20Propagation%20Model%20using%20ABM.ipynb) Conducted an agent-based modeling project to simulate and analyze the propagation of rumors in various scenarios, considering factors such as acceptance rates, introduction times, and starting locations. The results highlight the significant impact of these factors on the spread of rumor and truth, providing insights for effective intervention strategies.
