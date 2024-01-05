@@ -17,7 +17,7 @@ For in-depth discussions of the methodology and results of each project, you may
 	_Tools: NLTK, scikit-learn_ 
 
 - ### Data Analysis and Visualization
-	 - Time Series Forecasting: E-Commerce Sales Forecast: work-in-progress
+	 - Simple Time Series Forecasting: E-Commerce Sales Forecast: Utilized exploratory data analysis techniques to identify patterns, trends, and insights within the e-commerce dataset and applied time series forecasting techniques using Prophet to predict sales for the upcoming year. 
 
 	_Tools: Pandas, Seaborn, Matplotlib, Plotly Express, scikit-learn, Prophet_ 
 
