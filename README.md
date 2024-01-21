@@ -18,7 +18,7 @@ For in-depth discussions of the methodology and results of each project, you may
 
 - ### Data Analysis and Visualization
 	 - 🪙 [E-Commerce Sales Forecast](https://github.com/yumoldianne/dsci-portfolio/blob/main/E-Commerce%20Sales%20Forecast.ipynb): Utilized exploratory data analysis techniques to identify patterns, trends, and insights within the e-commerce dataset and applied time series forecasting techniques using Prophet to predict sales for the upcoming year. Applied K-Means clustering algorithm to categorize customers into distinct segments based on their purchasing behavior.
-	 - Air Quality Analysis in Pre- and Post-Pandemic Philippines: work in progress
+	 - 🍃 Air Quality Analysis in Pre- and Post-Pandemic Philippines: work in progress
  
 	_Tools: Pandas, Seaborn, Matplotlib, Plotly Express, scikit-learn, Prophet_ 
 
