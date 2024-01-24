@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Data Science Projects
 
 This is a repository containing my portfolio of data science projects. Jupyter notebooks were ran using the Python kernel through Anaconda.
 
